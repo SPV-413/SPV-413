@@ -61,7 +61,9 @@
   
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spv-413&show_icons=true&locale=en&layout=compact" alt="spv-413" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spv-413&show_icons=true&locale=en" alt="spv-413" /></p>
 
 
 
