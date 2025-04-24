@@ -64,8 +64,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spv-413&show_icons=true&locale=en&layout=compact" alt="spv-413" /></p>
 
 
-<a href="https://iconscout.com/lottie-animation/data-analysis-processing-4209908_3505413">
-  https://iconscout.com/lottie-animation/data-analysis-processing-4209908_3505413
-</a>
+<img src="[your-converted-animation](https://drive.google.com/file/d/1XBuuFiA9PUZgGGPyWA1vm3b9m_KhYUpw/view?usp=drivesdk)" alt="Data Analysis Animation" width="370" height="290">
+
 
 
