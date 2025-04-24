@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PERAISOODAN VISWANATH S</h1>
 <h3 align="center">Aspiring Data Scientist or AI/ML Engineer</h3>
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌱 I’m currently learning **LLM's and RAG**
 
 - 👨‍💻 All of my projects are available at [https://www.vitaely.me/spv-413](https://www.vitaely.me/spv-413)
