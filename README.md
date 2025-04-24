@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm PERAISOODAN VISWANATH S</h1>
 <h3 align="center">Aspiring Data Scientist or AI/ML Engineer</h3>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 - 🌱 I’m currently learning **LLM's and RAG**
 
@@ -64,7 +66,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spv-413&show_icons=true&locale=en&layout=compact" alt="spv-413" /></p>
 
 
-<img src="[your-converted-animation](https://drive.google.com/file/d/1XBuuFiA9PUZgGGPyWA1vm3b9m_KhYUpw/view?usp=drivesdk)" alt="Data Analysis Animation" width="370" height="290">
+
 
 
 
