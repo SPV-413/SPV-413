@@ -5,7 +5,9 @@
 
 **Aspiring Data Scientist or AI/ML Engineer**
 
-- 🌱 I’m currently learning **LLM's and RAG**
+- 🏢 I’m currently a **Data Science Consultant** Intern at **Rubixe-AI Solutions**
+
+- 🌱 Committed to **Continuous Learning** and **Professional Development** in the field of **Data Science & AI**
 
 - 👨‍💻 **Portfolio**: [https://www.vitaely.me/spv-413](https://www.vitaely.me/spv-413)
 
