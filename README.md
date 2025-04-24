@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[This is a link](https://www.linkedin.com/in/peraisoodan-viswanath-s) 
+[https://www.linkedin.com/in/peraisoodan-viswanath-s](https://www.linkedin.com/in/peraisoodan-viswanath-s) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
