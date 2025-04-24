@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Hi there, I'm PERAISOODAN VISWANATH S**
 <!-- ### Hi there. I am PERAISOODAN VISWANATH S👋-->
 
-
-<h1 align="center">Hi 👋, I'm PERAISOODAN VISWANATH S</h1>
 <h3 align="center">Aspiring Data Scientist or AI/ML Engineer</h3>
 
 - 🌱 I’m currently learning **LLM's and RAG**
