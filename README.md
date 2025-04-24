@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **LLM's and RAG**
 
-- 👨‍💻 All of my projects are available at [https://www.vitaely.me/spv-413](https://www.vitaely.me/spv-413)
+- 👨‍💻 **Portfolio**: [https://www.vitaely.me/spv-413](https://www.vitaely.me/spv-413)
 
-- 📫 How to reach me **peraisoodanviswanath.s@gmail.com**
+- 📫 **Email**: **peraisoodanviswanath.s@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PCP6vhdCDhbjTcuSKFnLpKvH3TBG2XaZ/view?usp=drivesdk](https://drive.google.com/file/d/1PCP6vhdCDhbjTcuSKFnLpKvH3TBG2XaZ/view?usp=drivesdk)
+- 📄 **Resume**: [https://drive.google.com/file/d/1PCP6vhdCDhbjTcuSKFnLpKvH3TBG2XaZ/view?usp=drivesdk](https://drive.google.com/file/d/1PCP6vhdCDhbjTcuSKFnLpKvH3TBG2XaZ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
