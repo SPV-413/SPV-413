@@ -57,28 +57,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin-right: 10px;" />
   </a>
-  
-  
-  <!-- PySpark -->
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/yEDRvXoDNfoYkXc/17455192589975224847920654765543.jpg" alt="PySpark" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/xEHmQjFvsGIfTQT/17455192716207877255464773841529.jpg" alt="Power BI" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/ZSrDJuttsrnLcGZ/17455192806936623549677487628175.jpg" alt="Tableau" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-
-    <!-- Excel -->
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/DGauMFkCrKgTwsq/17455192905391443315063231919405.jpg" alt="Excel" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-</p>
 
   
 </p>
