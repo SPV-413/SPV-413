@@ -57,6 +57,24 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin-right: 10px;" />
   </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  
+  <!-- Microsoft Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_2023.svg" alt="excel" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Tableau_Logo.svg" alt="tableau" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Power_BI_Logo.svg" alt="powerbi" width="40" height="40" style="margin-right: 10px;" />
+  </a>
 </p>
 
 
