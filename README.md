@@ -71,7 +71,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spv-413&show_icons=true&locale=en&layout=compact" alt="spv-413" /></p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://pplx-res.cloudinary.com/image/private/user_uploads/BredTFFCokNqAJa/Data-Analysis-Processing.jpg">
 
 
 
