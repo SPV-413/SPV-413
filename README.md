@@ -70,8 +70,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spv-413&show_icons=true&locale=en&layout=compact" alt="spv-413" /></p>
 
-<img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-    <h3 align="left">Skills:</h3>
+<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    
 
 
 
