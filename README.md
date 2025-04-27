@@ -9,7 +9,7 @@
 
 - 🌱 Committed to **Continuous Learning** and **Professional Development** in the field of **Data Science & AI**
 
-- 👨‍💻 **Portfolio**: [https://www.vitaely.me/spv-413](https://www.vitaely.me/spv-413)
+- 👨‍💻 **Portfolio**: [https://spv-413.github.io/](https://spv-413.github.io/)
 
 - 📫 **Email**: **peraisoodanviswanath.s@gmail.com**
 
