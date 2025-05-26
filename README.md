@@ -5,7 +5,7 @@
 
 **Aspiring Data Scientist or AI/ML Engineer**
 
-- 🏢 I’m currently a **Data Science Consultant** Intern at **Rubixe-AI Solutions**
+- 🏢 Former **Data Science Consultant Intern, Rubixe**
 
 - 🌱 Committed to **Continuous Learning** and **Professional Development** in the field of **Data Science & AI**
 
