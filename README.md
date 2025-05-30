@@ -13,7 +13,7 @@
 
 - 📫 **Email**: **peraisoodanviswanath.s@gmail.com**
 
-- 📄 **Resume**: [https://drive.google.com/file/d/1_wQqPwFLRrY8Z_RBWpAsGL9LdOZCy4Sl/view?usp=drivesdk](https://drive.google.com/file/d/1_wQqPwFLRrY8Z_RBWpAsGL9LdOZCy4Sl/view?usp=drivesdk)
+- 📄 **Resume**: [https://drive.google.com/file/d/1nrsGW-OZX4QAVSLC3mFbkv2MmH7WsN-R/view?usp=drivesdk](https://drive.google.com/file/d/1nrsGW-OZX4QAVSLC3mFbkv2MmH7WsN-R/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/peraisoodan-viswanath-s/" target="blank">
