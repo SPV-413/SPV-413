@@ -3,7 +3,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Hi there, I'm PERAISOODAN VISWANATH S**
 <!-- ### Hi there. I am PERAISOODAN VISWANATH S👋-->
 
-**Aspiring Data Scientist or AI/ML Engineer**
+**Aspiring Data Scientist | AI/ML Engineer**
 
 - 🏢 Former **Data Science Consultant Intern, Rubixe**
 
@@ -13,7 +13,7 @@
 
 - 📫 **Email**: **peraisoodanviswanath.s@gmail.com**
 
-- 📄 **Resume**: [https://drive.google.com/file/d/1nrsGW-OZX4QAVSLC3mFbkv2MmH7WsN-R/view?usp=drivesdk](https://drive.google.com/file/d/1nrsGW-OZX4QAVSLC3mFbkv2MmH7WsN-R/view?usp=drivesdk)
+- 📄 **Resume**: [https://drive.google.com/file/d/1zSM5zNOLmALP6OO7nXf6FvxgZxtbKeIb/view?usp=drivesdk](https://drive.google.com/file/d/1zSM5zNOLmALP6OO7nXf6FvxgZxtbKeIb/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/peraisoodan-viswanath-s/" target="blank">
