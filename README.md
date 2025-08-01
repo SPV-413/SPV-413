@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B35?style=for-the-badge&logoColor=white)](https://spv-413.github.io/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SPV-413)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/spv-413)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/peraisoodan-viswanath-s)
 
 </div>
 
@@ -243,6 +243,9 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 <td align="center">
 <img src="https://img.shields.io/badge/💼_Data_Science_Consultant-Rubixe_Intern-00D4AA?style=for-the-badge&logoColor=white"/>
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Certified_Data_Scientist-IABAC-FF6B35?style=for-the-badge&logoColor=white"/>
+</td>    
 </tr>
 </table>
 
@@ -264,12 +267,12 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 </a>
 </td>
 <td align="center">
-<a href="mailto:your-email@example.com">
+<a href="mailto:peraisoodanviswanath.s@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 <td align="center">
-<a href="https://linkedin.com/in/spv-413">
+<a href="https://linkedin.com/in/peraisoodan-viswanath-s">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
