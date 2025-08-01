@@ -260,7 +260,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 <img src="https://img.shields.io/badge/🎓_Lloyds_Banking_Group_Data_Science-Forage_Job_Simulation-00D4AA?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎓_Council_of_Europe_Level_A2-Cambridge-00D4AA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_Council_of_Europe_Level_A2-Cambridge-0A66C2?style=for-the-badge&logoColor=white"/>
 </td>    
 </tr>
 </table>
