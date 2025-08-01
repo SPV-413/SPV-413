@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;AI+Solutions+%7C+Innovation+Driven;Transforming+Data+into+Insights;Building+Intelligent+Systems" alt="Typing SVG" />
 
-<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="140" height="140" />
+<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="125" height="125" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B35?style=for-the-badge&logoColor=white)](https://spv-413.github.io/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SPV-413)
@@ -256,7 +256,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 <img src="https://img.shields.io/badge/🎓_Generative_AI_Fundamentals-DataBricks-0A66C2?style=for-the-badge&logoColor=white"/>
 </td> 
 <td align="center">
-<img src="https://img.shields.io/badge/🎓_Machine_Learning_with_Python-Cognitive_Class_AI_IBM-181717?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_Machine_Learning_with_Python-Cognitive_Class_AI-181717?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Lloyds_Banking_Group_Data_Science-Forage_Job_Simulation-00D4AA?style=for-the-badge&logoColor=white"/>
