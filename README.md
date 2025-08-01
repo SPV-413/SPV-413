@@ -317,7 +317,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 
 <img src="https://komarev.com/ghpvc/?username=SPV-413&label=AI%20Solutions%20Accessed&color=00FF41&style=for-the-badge" alt="Profile Views" />
 
-**⚡ Ready to revolutionize your business with data science & AI? Let's build intelligent solutions together! ⚡**
+**⚡ Ready to revolutionize your business with Data Science & AI? Let's build intelligent solutions together! ⚡**
 
 ---
 
