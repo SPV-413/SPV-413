@@ -311,7 +311,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 
 ### 🚀 **MISSION STATEMENT**
 
-> *"In the age of artificial intelligence, I stand at the intersection of AI, data science, and innovation-crafting intelligent solutions that bridge the gap between advanced algorithms and real-world business impact. Every AI model I build, every insight I uncover, and every problem I solve contributes to a smarter, more data-driven, and AI-powered future."*
+> *"In the age of artificial intelligence and data science, I stand at the intersection of these transformative fields, crafting intelligent solutions that bridge the gap between cutting-edge algorithms and real-world business impact. Every AI model I build, every data-driven insight I uncover, and every problem I solve contributes to a smarter, more innovative, and data-empowered future."*
 
 ---
 
