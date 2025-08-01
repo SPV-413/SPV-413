@@ -248,6 +248,15 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Data_Science_Foundation-IABAC-EA4335?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Generative_AI_Fundamentals-DataBricks-0A66C2?style=for-the-badge&logoColor=white"/>
+</td> 
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Machine_Learning_with_Python-Cognitive_Class_AI_&_IBM-181717?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Lloyds_Banking_Group’s_Data_Science_Job_Simulation-Forage-00D4AA?style=for-the-badge&logoColor=white"/>
 </td>    
 </tr>
 </table>
@@ -301,7 +310,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 
 <img src="https://komarev.com/ghpvc/?username=SPV-413&label=AI%20Solutions%20Accessed&color=00FF41&style=for-the-badge" alt="Profile Views" />
 
-**⚡ Ready to revolutionize your business with data science? Let's build intelligent solutions together! ⚡**
+**⚡ Ready to revolutionize your business with data science & AI? Let's build intelligent solutions together! ⚡**
 
 ---
 
