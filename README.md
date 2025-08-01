@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **PERAISOODAN VISWANATH S** 
+# 🚀 **PERAISOODAN VISWANATH S** 🚀
 ### *Aspiring Data Scientist | AI/ML Engineer*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;AI+Solutions+%7C+Innovation+Driven;Transforming+Data+into+Insights;Building+Intelligent+Systems" alt="Typing SVG" />
@@ -311,7 +311,7 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 
 ### 🚀 **MISSION STATEMENT**
 
-> *"In the age of artificial intelligence, I stand at the intersection of data science and innovation, crafting intelligent solutions that bridge the gap between complex algorithms and real-world business impact. Every model I build, every insight I uncover, and every problem I solve contributes to a smarter, more data-driven future."*
+> *"In the age of artificial intelligence, I stand at the intersection of AI, data science, and innovation—crafting intelligent solutions that bridge the gap between advanced algorithms and real-world business impact. Every AI model I build, every insight I uncover, and every problem I solve contributes to a smarter, more data-driven, and AI-powered future."*
 
 ---
 
