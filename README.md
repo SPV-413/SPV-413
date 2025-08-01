@@ -234,7 +234,6 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 ## 🎓 **CERTIFICATIONS & CREDENTIALS**
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -246,23 +245,25 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Certified_Data_Scientist-IABAC-FF6B35?style=for-the-badge&logoColor=white"/>
 </td>
-</tr> 
-<tr>   
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Data_Science_Foundation-IABAC-EA4335?style=for-the-badge&logoColor=white"/>
 </td>
+</tr> 
+<tr>   
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Generative_AI_Fundamentals-DataBricks-0A66C2?style=for-the-badge&logoColor=white"/>
 </td> 
 <td align="center">
-<img src="https://img.shields.io/badge/🎓_Machine_Learning_with_Python-Cognitive_Class_AI_&_IBM-181717?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_Machine_Learning_with_Python-Cognitive_Class_AI_IBM-181717?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎓_Lloyds_Banking_Group’s_Data_Science_Job_Simulation-Forage-00D4AA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_Lloyds_Banking_Group_Data_Science-Forage_Job_Simulation-00D4AA?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_More_Certifications-Coming_Soon-FF6B35?style=for-the-badge&logoColor=white"/>
 </td>    
 </tr>
 </table>
-
 </div>
 
 
