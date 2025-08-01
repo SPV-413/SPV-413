@@ -245,6 +245,9 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🎓_Certified_Data_Scientist-IABAC-FF6B35?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Data_Science_Foundation-IABAC-EA4335?style=for-the-badge&logoColor=white"/>
 </td>    
 </tr>
 </table>
