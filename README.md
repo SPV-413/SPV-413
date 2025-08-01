@@ -7,7 +7,7 @@
 
 
 
-<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="130" height="130" />
+<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="140" height="140" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B35?style=for-the-badge&logoColor=white)](https://spv-413.github.io/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SPV-413)
