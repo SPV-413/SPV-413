@@ -263,6 +263,38 @@ Innovative data enthusiast with a **Certified Data Scientist** credential from D
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/DataMites-CDS_Certified-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br><sub>Data Science</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/DataMites-AI_Expert-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br><sub>AI Engineering</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/IBM-AI_Engineering-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+<br><sub>Specialization</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/IABAC-Foundation_CDS-F7931E?style=for-the-badge&logo=certificate&logoColor=white"/>
+<br><sub>Foundation</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/IABAC-Data_Scientist-EA4335?style=for-the-badge&logo=python&logoColor=white"/>
+<br><sub>Certified</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/IABAC-AI_Expert-00D9FF?style=for-the-badge&logo=brain&logoColor=white"/>
+<br><sub>Expert Level</sub>
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🌐 **CONNECT & COLLABORATE**
